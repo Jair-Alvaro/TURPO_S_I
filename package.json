@@ -1,0 +1,22 @@
+{
+  "name": "turpo_s_i",
+  "version": "1.0.0",
+  "description": "Modulos Turpo Soluciones Integrales",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ./src/js/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jair-Alvaro/TURPO_S_I.git"
+  },
+  "author": "Jair Alvaro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jair-Alvaro/TURPO_S_I/issues"
+  },
+  "homepage": "https://github.com/Jair-Alvaro/TURPO_S_I#readme",
+  "devDependencies": {
+    "electron": "^25.3.0"
+  }
+}
